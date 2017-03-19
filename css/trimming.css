@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+
+.photo{
+    display: block;
+    overflow: hidden;
+    position: relative;
+    width:100px;/*枠の幅*/
+    height:100px; /*枠の高さ;*/
+}
+.photo  img{
+    width: 100%;
+    height: auto;
+   /*画像のセンタリング（中央寄せ）*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
