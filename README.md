@@ -6,6 +6,7 @@
 ##メンバー
 
 *hirakan
+*hiramatsu
 
 ##ファイル構成
 
