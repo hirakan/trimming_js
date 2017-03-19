@@ -1,5 +1,6 @@
 #ファイル
 .DS_Store
+config.rb
 
 #ディレクトリ
 /tmp
